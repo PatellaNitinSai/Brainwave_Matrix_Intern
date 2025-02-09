@@ -74,7 +74,7 @@ Want to improve this project? Follow these steps:
 ## 📩 Contact  
 
 🔗 **GitHub:** [Patella Nitin Sai](https://github.com/PatellaNitinSai)  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [your-email@example.com](mailto:nitinsaipatella1234@gmail.com)  
 
 ---
 
