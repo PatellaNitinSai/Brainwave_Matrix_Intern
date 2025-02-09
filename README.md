@@ -35,8 +35,11 @@ git clone https://github.com/PatellaNitinSai/Brainwave_Matrix_Intern.git
 cd Brainwave_Matrix_Intern
 ```
 ### 3️⃣ Open `index.html` in Your Browser  
-Simply double-click `index.html` or use Live Server if using **VS Code**.  
-
+Simply double-click `index.html` or use Live Server if using **VS Code**. 
+### 3️⃣ Run the backend server 
+```sh
+nodemon index.js
+```
 ---
 
 ## 🎯 Usage  
