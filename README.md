@@ -2,7 +2,7 @@
 
 A **simple and intuitive money management web app** that helps users track their income, expenses, and budget. It provides an **interactive dashboard** with real-time **charts and filters** for better financial insights.  
 
-![Money Tracker Preview](https://via.placeholder.com/800x400)  
+
 
 ## 🚀 Features  
 
